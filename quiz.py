@@ -155,6 +155,7 @@ class Quiz():
 gui = Tk()
 gui.geometry("800x450+240+70")
 gui.resizable(0,0)
+gui.title("Python Quiz By @concpets.of.programming")
 photo = PhotoImage(file = "icon.png")
 gui.iconphoto(False, photo)
 
