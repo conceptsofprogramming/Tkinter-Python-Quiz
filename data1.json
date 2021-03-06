@@ -1,0 +1,45 @@
+{
+  "question": [
+    "Q1. Who developed the Python language?",
+    "Q2. Which of the following is not a keyword in Python language?",
+    "Q3. What is the method inside the class in python language?",
+    "Q4. Which one of the following has the same precedence level?",
+    "Q5. What will be the output of this function?\n round(4.576)"
+  ],
+  "answer": [
+    2,
+    1,
+    3,
+    3,
+    4
+  ],
+  "options": [
+
+    ["Zim Den",
+      "Guido van Rossum",
+      "Niene Stom",
+      "Wick van Rossum"
+    ],
+    ["val",
+      "raise",
+      "try",
+      "with"
+    ],
+    ["Object",
+     "Attribute",
+     "Function",
+     "Argument"
+    ],
+    ["Division, Power, Multiplication, Addition and Subtraction",
+     "Subtraction and Division",
+     "Division and Multiplication",
+     "Power and Division"
+    ],
+    [ "4",
+      "4.5",
+      "576",
+      "5"
+    ]
+
+  ]
+}
